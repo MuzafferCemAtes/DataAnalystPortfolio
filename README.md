@@ -1,7 +1,7 @@
 # Muzaffer Cem Ates - Data Analysis Portfolio
 
 <div id="header" align="left">
-  <h1>Hello there!</h1>
+  <h1>Hello there! 👋</h1>
 </div>
 <div id="bio" align="left">
   <h2>About Me</h2>
