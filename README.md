@@ -7,5 +7,5 @@
 ## Portfolio Projects
 
 ### Data Cleaning Project #1
-**Code:**[DataCleaning#1/BritishAirwaysReview.ipynb(https://github.com/MuzafferCemAtes/DataAnalystPortfolio/blob/main/DataCleaningProject1/BritishAirwaysReview.ipynb))
+**Code:**[`BritishAirwaysReview.ipynb`](https://github.com/MuzafferCemAtes/DataAnalystPortfolio/blob/main/DataCleaningProject1/BritishAirwaysReview.ipynb)
 
