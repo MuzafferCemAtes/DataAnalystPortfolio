@@ -7,6 +7,8 @@ I was also part of a research team that developed a machine learning algorithm f
 
 Currently, I’m eager to transition into a full-time role as a data analyst, applying my skills in data visualization, data cleaning, and statistical analysis to deliver insights that can drive business decisions. I am continuously learning and working towards my goal of becoming a proficient data analyst, ready to take on new challenges in the industry.
 
+If you're interested in learning more about my background and experience, feel free to take a look at my [CV](https://github.com/MuzafferCemAtes/DataAnalystPortfolio/blob/main/MuzafferCemAtesCV.pdf)
+
 ## Table of Content
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
