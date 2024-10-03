@@ -1,6 +1,11 @@
 # Muzaffer Cem Ates - Data Analysis Portfolio
 
 ## About
+I hold a Bachelor's degree in Industrial Engineering from TOBB ETU, a Master's degree in Energy Science and Technology from ITU, and a Computer Programming diploma from Sheridan College. I have a strong foundation in problem-solving and analytical thinking, developed through my academic background and work experience.
+
+I was also part of a research team that developed a machine learning algorithm for user localization in indoor environments. Our work was published in an international journal, and you can find the publication [here](https://www.researchgate.net/publication/357035638_User_Localization_in_an_Indoor_Environment_by_Combining_Different_Algorithms_through_Plurality_Rule). This experience deepened my interest in data science and machine learning.
+
+Currently, I’m eager to transition into a full-time role as a data analyst, applying my skills in data visualization, data cleaning, and statistical analysis to deliver insights that can drive business decisions. I am continuously learning and working towards my goal of becoming a proficient data analyst, ready to take on new challenges in the industry.
 
 ## Table of Content
 - [About](#about)
