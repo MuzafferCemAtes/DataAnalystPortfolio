@@ -13,6 +13,7 @@
 
 ### Data Visualization Project 1
 **Code:**[`DataViz`](https://github.com/MuzafferCemAtes/DataAnalystPortfolio/tree/main/Identifying%20the%20most%20Efficient%20Striker%20of%202022-23%20season)
+
 **Description:**This project evaluates and compares the scoring efficiency of top strikers from the Premier League, La Liga, and Bundesliga during the 2022/23 season. Using key performance metrics such as Goals per 90 minutes, Conversion Rate, and Shots on Target Percentage, this analysis identifies the most efficient goal scorers in these elite leagues. The analysis follows Google’s data analysis process (Ask, Prepare, Process, Analyze, Share, and Act), ensuring a comprehensive approach.
 **Technology**
 * Python
