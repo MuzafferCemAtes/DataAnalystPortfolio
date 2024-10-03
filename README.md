@@ -3,7 +3,6 @@
 <div id="header" align="left">
   <h1>Hello there!</h1>
 </div>
-<br>
 <div id="bio" align="left">
   <h2>About Me</h2>
   <p>
