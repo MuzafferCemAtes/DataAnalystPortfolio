@@ -1,13 +1,13 @@
 # Muzaffer Cem Ates - Data Analysis Portfolio
 
-<div id="header" align="center">
+<div id="header" align="left">
   <h1>Hello there!</h1>
   <a href="www.linkedin.com/in/muzaffer-cem-ates-6243992a4" rel="nofollow noreferrer">
     <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
   </a>
 </div>
 <br>
-<div id="bio" align="center">
+<div id="bio" align="left">
   <h2>About Me</h2>
   <p>
     I'm a Data Analyst passionate about coding, data analysis, and creating visual dashboards. <br>
@@ -17,7 +17,7 @@
   </p>
 </div>
 <br>
-<div align="center">
+<div align="left">
   <img alt="python" width="40px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" />&nbsp;&nbsp;
   <img alt="sql" width="40px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=mysql"/>&nbsp;&nbsp;
   <img alt="tableau" width="40px" style="padding-right:10px;" src="https://surveymonkey-assets.s3.amazonaws.com/papiasset/apps/logos/2e989404-aed0-41ea-9198-ddc1c76d7a4a"  />&nbsp;&nbsp;
