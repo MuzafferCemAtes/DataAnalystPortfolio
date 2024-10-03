@@ -28,4 +28,5 @@ Results:
 * Business recommendation to handle missing values for regression analysis by excluding or imputing values in key fields like food, entertainment, and wifi.
 
 ## Contacts
-- LinkedIn: [muzaffer-cem-ates-6243992a4](https://www.linkedin.com/in/muzaffer-cem-ates-6243992a4/)
+- LinkedIn: [Muzaffer Cem Ates](https://www.linkedin.com/in/muzaffer-cem-ates-6243992a4/)
+- E-mail: muzaffercem.ates@gmail.com
