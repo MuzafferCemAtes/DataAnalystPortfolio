@@ -35,11 +35,6 @@
 
 **Technology**
 * Python
-* Pandas
-* Numpy
-* difflib (for string matching)
-* geonamescache (for city name validation)
-* airportsdata (for handling IATA codes)
 
 **Results:**
 * Cleaned and validated dataset, ready for exploratory data analysis (EDA) or advanced analysis like regression.
