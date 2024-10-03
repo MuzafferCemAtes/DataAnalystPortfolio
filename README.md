@@ -1,4 +1,5 @@
 # Muzaffer Cem Ates - Data Analysis Portfolio
+
 <div id="header" align="center">
   <h1>Hello there, I'm Muzaffer Cem Ates</h1>
   <a href="www.linkedin.com/in/muzaffer-cem-ates-6243992a4" rel="nofollow noreferrer">
@@ -23,14 +24,6 @@
   <img alt="git" width="40px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" />&nbsp;&nbsp;
   <img alt="github" width="40px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png"  />
 </div>
-## About
-I hold a Bachelor's degree in Industrial Engineering from TOBB ETU, a Master's degree in Energy Science and Technology from ITU, and a Computer Programming diploma from Sheridan College. I have a strong foundation in problem-solving and analytical thinking, developed through my academic background and work experience.
-
-I was also part of a research team that developed a machine learning algorithm for user localization in indoor environments. Our work was published in an international journal, and you can find the publication [here](https://www.researchgate.net/publication/357035638_User_Localization_in_an_Indoor_Environment_by_Combining_Different_Algorithms_through_Plurality_Rule). This experience deepened my interest in data science and machine learning.
-
-Currently, I’m eager to transition into a full-time role as a data analyst, applying my skills in data visualization, data cleaning, and statistical analysis to deliver insights that can drive business decisions. I am continuously learning and working towards my goal of becoming a proficient data analyst, ready to take on new challenges in the industry.
-
-If you're interested in learning more about my background and experience, feel free to take a look at my [CV](https://github.com/MuzafferCemAtes/DataAnalystPortfolio/blob/main/MuzafferCemAtesCV.pdf)
 
 ## Table of Content
 - [About](#about)
