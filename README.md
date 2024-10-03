@@ -20,8 +20,7 @@ If you're interested in learning more about my background and experience, feel f
 - [Contacts](#contacts)
 ## Portfolio Projects
 
-### Data Visualization Project 1
-**Code:**[`Visualization#1`](https://github.com/MuzafferCemAtes/DataAnalystPortfolio/tree/main/Identifying%20the%20most%20Efficient%20Striker%20of%202022-23%20season)
+### [Data Visualization Project 1](https://github.com/MuzafferCemAtes/DataAnalystPortfolio/tree/main/Identifying%20the%20most%20Efficient%20Striker%20of%202022-23%20season)
 
 **Description:** This project evaluates and compares the scoring efficiency of top strikers from the Premier League, La Liga, and Bundesliga during the 2022/23 season. Using key performance metrics such as Goals per 90 minutes, Conversion Rate, and Shots on Target Percentage, this analysis identifies the most efficient goal scorers in these elite leagues. The analysis follows Google’s data analysis process (Ask, Prepare, Process, Analyze, Share, and Act), ensuring a comprehensive approach.
 
@@ -34,8 +33,7 @@ If you're interested in learning more about my background and experience, feel f
 * Provided insights into striker efficiency, highlighting the top 10 performers in Europe’s elite leagues.
 * Created dashboards that offer a comprehensive view of scoring efficiency, accuracy, and league difficulty.
 
-### Data Visualization Project 2
-**Code:**[`Visualization#2`](https://github.com/MuzafferCemAtes/DataAnalystPortfolio/tree/main/Tableau%20Project%201)
+### [Data Visualization Project 2](https://github.com/MuzafferCemAtes/DataAnalystPortfolio/tree/main/Tableau%20Project%201)
 
 **Description:** This project is an interactive dashboard that visualizes customer reviews and ratings of British Airways flights. The dashboard provides insights into key metrics such as overall rating, seat comfort, food, entertainment, and cabin staff service. Users can interact with the dashboard to filter reviews based on different parameters like travel class, aircraft type, and traveler type. The dashboard also offers visualizations of how seat comfort and food ratings vary over time, by country, and by aircraft.
 
@@ -48,7 +46,7 @@ If you're interested in learning more about my background and experience, feel f
 * Insightful comparisons of British Airways flight experiences across different regions and aircraft models.
 
 ### [Data Cleaning Project 1](https://github.com/MuzafferCemAtes/DataAnalystPortfolio/tree/main/DataCleaningProject1)
-**Code:**[`Data Cleaning Project 1`]()
+**Code:**[`BritishAirwaysReview.ipynb`](https://github.com/MuzafferCemAtes/DataAnalystPortfolio/blob/main/DataCleaningProject1/BritishAirwaysReview.ipynb)
 
 **Description:** This project analyzes a dataset containing customer reviews and ratings of British Airways flights. The dataset includes information on routes, aircraft types, in-flight services, and customer satisfaction scores. The project follows a comprehensive data cleaning and preparation process, ensuring that the dataset is well-structured and ready for further analysis. The main steps of this project are: data loading, data cleaning, handling missing values, standardizing city names, splitting routes into departure and destination cities, and preparing the dataset for future analysis such as regression or hypothesis testing.
 
