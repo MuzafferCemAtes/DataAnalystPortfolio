@@ -47,8 +47,8 @@ If you're interested in learning more about my background and experience, feel f
 * Filters based on various user-selected metrics like traveler type, seat type, aircraft, and review date.
 * Insightful comparisons of British Airways flight experiences across different regions and aircraft models.
 
-### Data Cleaning Project 1
-**Code:**[`Data Cleaning Project 1`](https://github.com/MuzafferCemAtes/DataAnalystPortfolio/tree/main/DataCleaningProject1)
+### [Data Cleaning Project 1](https://github.com/MuzafferCemAtes/DataAnalystPortfolio/tree/main/DataCleaningProject1)
+**Code:**[`Data Cleaning Project 1`]()
 
 **Description:** This project analyzes a dataset containing customer reviews and ratings of British Airways flights. The dataset includes information on routes, aircraft types, in-flight services, and customer satisfaction scores. The project follows a comprehensive data cleaning and preparation process, ensuring that the dataset is well-structured and ready for further analysis. The main steps of this project are: data loading, data cleaning, handling missing values, standardizing city names, splitting routes into departure and destination cities, and preparing the dataset for future analysis such as regression or hypothesis testing.
 
