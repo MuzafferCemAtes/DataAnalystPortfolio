@@ -6,6 +6,9 @@
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
   + [Data Cleaning Project #1](#data-cleaning-project-1)
+ 
+
+- [Contacts](#contacts)
 ## Portfolio Projects
 
 ### Data Cleaning Project 1
@@ -24,3 +27,5 @@ Results:
 * Corrected city names and standardized routes by splitting them into departure and destination.
 * Business recommendation to handle missing values for regression analysis by excluding or imputing values in key fields like food, entertainment, and wifi.
 
+## Contacts
+- LinkedIn: [muzaffer-cem-ates-6243992a4](https://www.linkedin.com/in/muzaffer-cem-ates-6243992a4/)
