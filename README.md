@@ -1,7 +1,7 @@
 # Muzaffer Cem Ates - Data Analysis Portfolio
 
 <div id="header" align="center">
-  <h1>Hello there, I'm Muzaffer Cem Ates</h1>
+  <h1>Hello there!</h1>
   <a href="www.linkedin.com/in/muzaffer-cem-ates-6243992a4" rel="nofollow noreferrer">
     <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
   </a>
