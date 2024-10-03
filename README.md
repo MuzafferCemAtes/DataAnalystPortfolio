@@ -1,5 +1,28 @@
 # Muzaffer Cem Ates - Data Analysis Portfolio
-
+<div id="header" align="center">
+  <h1>Hello there, I'm Muzaffer Cem Ates</h1>
+  <a href="www.linkedin.com/in/muzaffer-cem-ates-6243992a4" rel="nofollow noreferrer">
+    <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
+  </a>
+</div>
+<br>
+<div id="bio" align="center">
+  <h2>About Me</h2>
+  <p>
+    I'm a Data Analyst passionate about coding, data analysis, and creating visual dashboards. <br>
+    I'm constantly learning and updating my skills to stay up-to-date with the latest technologies. <br>
+    I'm currently seeking new opportunities to apply my knowledge and expertise in the data analysis space. <br>
+    Focusing on upgrading my skills in Tableau and Python to enhance my data analysis capabilities.
+  </p>
+</div>
+<br>
+<div align="center">
+  <img alt="python" width="40px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" />&nbsp;&nbsp;
+  <img alt="sql" width="40px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=mysql"/>&nbsp;&nbsp;
+  <img alt="tableau" width="40px" style="padding-right:10px;" src="https://surveymonkey-assets.s3.amazonaws.com/papiasset/apps/logos/2e989404-aed0-41ea-9198-ddc1c76d7a4a"  />&nbsp;&nbsp;
+  <img alt="git" width="40px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" />&nbsp;&nbsp;
+  <img alt="github" width="40px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png"  />
+</div>
 ## About
 I hold a Bachelor's degree in Industrial Engineering from TOBB ETU, a Master's degree in Energy Science and Technology from ITU, and a Computer Programming diploma from Sheridan College. I have a strong foundation in problem-solving and analytical thinking, developed through my academic background and work experience.
 
