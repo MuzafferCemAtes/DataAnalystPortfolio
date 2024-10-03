@@ -26,8 +26,6 @@
 * Provided insights into striker efficiency, highlighting the top 10 performers in Europe’s elite leagues.
 * Created dashboards that offer a comprehensive view of scoring efficiency, accuracy, and league difficulty.
 
-## Portfolio Projects
-
 ### Data Visualization Project 2
 **Code:**[`Visualization  2`](https://github.com/MuzafferCemAtes/DataAnalystPortfolio/tree/main/Tableau%20Project%201)
 
