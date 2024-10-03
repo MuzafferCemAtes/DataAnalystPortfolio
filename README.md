@@ -5,7 +5,7 @@
 ## Table of Content
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
-  + [Data Cleaning Project #1]()
+  + [Data Cleaning Project #1](#DataCleaningProject1)
 ## Portfolio Projects
 
 ### Data Cleaning Project #1
