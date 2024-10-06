@@ -64,6 +64,7 @@
 
 **Technology**
 * Python
+* Excel
 
 **Results:**
 * Cleaned and validated dataset, ready for exploratory data analysis (EDA) or advanced analysis like regression.
