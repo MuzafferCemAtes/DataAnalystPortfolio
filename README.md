@@ -18,7 +18,7 @@
   <img alt="sql" width="40px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=mysql"/>&nbsp;&nbsp;
   <img alt="tableau" width="40px" style="padding-right:10px;" src="https://surveymonkey-assets.s3.amazonaws.com/papiasset/apps/logos/2e989404-aed0-41ea-9198-ddc1c76d7a4a"  />&nbsp;&nbsp;
   <img alt="git" width="40px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" />&nbsp;&nbsp;
-  <img alt="github" width="40px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png"  />
+  <img alt="github" width="40px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg"  />
 </div>
 
 ## Table of Content
