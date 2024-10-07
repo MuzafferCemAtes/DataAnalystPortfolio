@@ -10,7 +10,7 @@
     I'm constantly learning and updating my skills to stay up-to-date with the latest technologies. <br>
     I'm currently seeking new opportunities to apply my knowledge and expertise in the data analysis space. <br>
     Focusing on upgrading my skills in Tableau and Python to enhance my data analysis capabilities.
-    If you want to check my CV: [Muzaffer Cem Ates](https://github.com/MuzafferCemAtes/DataAnalystPortfolio/blob/main/MuzafferCemAtesCV.pdf)
+    If you want to check my CV: [`Muzaffer Cem Ates`](https://github.com/MuzafferCemAtes/DataAnalystPortfolio/blob/main/MuzafferCemAtesCV.pdf)
   </p>
 </div>
 <br>
