@@ -16,7 +16,7 @@
 <div align="left">
   <img alt="excel" width="40px" style="padding-right:10px;" src="https://github.com/sempostma/office365-icons/blob/master/png/256/excel.png"/>&nbsp;&nbsp;
   <img alt="python" width="40px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" />&nbsp;&nbsp;
-  <img alt="sql" width="40px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=postgresql"/>&nbsp;&nbsp;
+  <img alt="sql" width="50px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=postgresql"/>&nbsp;&nbsp;
   <img alt="tableau" width="40px" style="padding-right:10px;" src="https://surveymonkey-assets.s3.amazonaws.com/papiasset/apps/logos/2e989404-aed0-41ea-9198-ddc1c76d7a4a"  />&nbsp;&nbsp;
   <img alt="powerbi" width="30px" style="padding-right:10px;" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png"/>&nbsp;&nbsp;
   <img alt="git" width="40px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" />&nbsp;&nbsp;
