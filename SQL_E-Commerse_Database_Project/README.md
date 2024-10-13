@@ -30,8 +30,8 @@ The E-commerce Database Management System is a robust and comprehensive database
 ## Getting Started
   1. **Create Database:** Execute the SQL script database_tables.sql to create all necessary tables, including primary and foreign keys.Ensure the database structure is properly set up according to the Entity-Relationship Diagram (ERD).
   2. **Insert Data:** Populate the database with sample data using script example_dataset_script.sql
-  3. **Views:** Explore predefined views like Customer_Order_History, Seller_Average_Rating, and Delayed_Deliveries for insightful data summaries.
-  4. **Queries:** Use provided query scripts (e.g., query_best_selling_products.sql, query_total_revenue.sql) for various financial and operational insights.
+  3. **Views:** Explore predefined views like Customer Order History, Seller Average Rating, and Payment Type for insightful data summaries.
+  4. **Queries:** Use provided query scripts (e.g., top_5_product_query.sql, total_revenue_by_product_query.sql) for various financial and operational insights.
 
 ## ERD Diagram ##
 ![ERD Diagram](ERD_Diagram.png)
