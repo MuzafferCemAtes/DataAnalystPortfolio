@@ -38,3 +38,7 @@ The E-commerce Database Management System is a robust and comprehensive database
 
 ## Acknowledgments
 This project is designed to streamline database management for an e-commerce platform, providing a strong backend structure for managing customer orders, inventory, payments, and reviews. Contributions and improvements are welcome to expand its functionality.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE.md).
