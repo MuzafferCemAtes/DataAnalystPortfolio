@@ -32,6 +32,7 @@ If you want to check my CV: [Muzaffer Cem Ates](https://github.com/MuzafferCemAt
   + [Data Visualization Project #1](#data-visualization-project-1)
   + [Data Visualization Project #2](#data-visualization-project-2)
   + [Data Cleaning Project #1](#data-cleaning-project-1)
+  + [E-commerce Database Management System](#e-commerce-database-management-system)
  
 
 - [Contacts](#contacts)
@@ -75,6 +76,19 @@ If you want to check my CV: [Muzaffer Cem Ates](https://github.com/MuzafferCemAt
 * Cleaned and validated dataset, ready for exploratory data analysis (EDA) or advanced analysis like regression.
 * Corrected city names and standardized routes by splitting them into departure and destination.
 * Business recommendation to handle missing values for regression analysis by excluding or imputing values in key fields like food, entertainment, and wifi.
+
+### [E-commerce Database Management System](https://github.com/MuzafferCemAtes/DataAnalystPortfolio/tree/main/SQL_E-Commerse_Database_Project)
+
+**Description:** This project involves the creation of a robust database management system tailored for an e-commerce platform. It captures critical data related to customers, products, orders, payments, sellers, and store locations. The project includes a well-structured set of tables, views, and queries to manage and analyze core aspects of an e-commerce business. The primary objectives are to manage customer and seller information, track inventory and sales, handle payment processing, and monitor customer reviews and seller ratings. Key steps in the project include table creation, establishing relationships through primary and foreign keys, creating views for quick insights, and implementing queries for specific business analytics.
+
+**Technology**
+* PostgreSQL
+
+**Results:**
+* Comprehensive database schema for managing e-commerce operations, including customer orders, payments, inventory, and reviews.
+* Predefined views, such as Customer_Order_History and Seller_Average_Rating, for quick access to important business insights.
+* Detailed queries for analyzing sales data, product availability, revenue by category, and more.
+* Efficient handling of customer and product data, enabling streamlined order processing and inventory management for an e-commerce platform.
 
 ## Contacts
 - LinkedIn: [Muzaffer Cem Ates](https://www.linkedin.com/in/muzaffer-cem-ates-6243992a4/)
