@@ -35,3 +35,6 @@ The E-commerce Database Management System is a robust and comprehensive database
 
 ## ERD Diagram ##
 ![ERD Diagram](ERD_Diagram.png)
+
+## Acknowledgments
+This project is designed to streamline database management for an e-commerce platform, providing a strong backend structure for managing customer orders, inventory, payments, and reviews. Contributions and improvements are welcome to expand its functionality.
