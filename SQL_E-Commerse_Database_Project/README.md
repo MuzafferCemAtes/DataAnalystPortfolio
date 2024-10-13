@@ -34,4 +34,4 @@ The E-commerce Database Management System is a robust and comprehensive database
   4. **Queries:** Use provided query scripts (e.g., query_best_selling_products.sql, query_total_revenue.sql) for various financial and operational insights.
 
 ## ERD Diagram ##
-https://github.com/MuzafferCemAtes/DataAnalystPortfolio/blob/main/SQL_E-Commerse_Database_Project/ERD_Diagram.png
+![ERD Diagram](ERD_Diagram.png)
