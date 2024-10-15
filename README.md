@@ -54,7 +54,6 @@ If you want to check my CV: [Muzaffer Cem Ates](https://github.com/MuzafferCemAt
 * Business recommendation to handle missing data in key fields for better predictive analysis.
 
 
-
 ## Skill Development Projects
 
 ### [Data Visualization Project 1](https://github.com/MuzafferCemAtes/DataAnalystPortfolio/tree/main/Identifying%20the%20most%20Efficient%20Striker%20of%202022-23%20season)
@@ -70,31 +69,6 @@ If you want to check my CV: [Muzaffer Cem Ates](https://github.com/MuzafferCemAt
 * Provided insights into striker efficiency, highlighting the top 10 performers in Europe’s elite leagues.
 * Created dashboards that offer a comprehensive view of scoring efficiency, accuracy, and league difficulty.
 
-### [Data Visualization Project 2](https://github.com/MuzafferCemAtes/DataAnalystPortfolio/tree/main/Tableau%20Project%201)
-
-**Description:** This project is an interactive dashboard that visualizes customer reviews and ratings of British Airways flights. The dashboard provides insights into key metrics such as overall rating, seat comfort, food, entertainment, and cabin staff service. Users can interact with the dashboard to filter reviews based on different parameters like travel class, aircraft type, and traveler type. The dashboard also offers visualizations of how seat comfort and food ratings vary over time, by country, and by aircraft.
-
-**Technology**
-* Tableau
-
-**Results:**
-* Interactive visualizations of seat comfort and food ratings over time, by country, and by aircraft.
-* Filters based on various user-selected metrics like traveler type, seat type, aircraft, and review date.
-* Insightful comparisons of British Airways flight experiences across different regions and aircraft models.
-
-### [Data Cleaning Project 1](https://github.com/MuzafferCemAtes/DataAnalystPortfolio/tree/main/DataCleaningProject1)
-**Code:**[`BritishAirwaysReview.ipynb`](https://github.com/MuzafferCemAtes/DataAnalystPortfolio/blob/main/DataCleaningProject1/BritishAirwaysReview.ipynb)
-
-**Description:** This project analyzes a dataset containing customer reviews and ratings of British Airways flights. The dataset includes information on routes, aircraft types, in-flight services, and customer satisfaction scores. The project follows a comprehensive data cleaning and preparation process, ensuring that the dataset is well-structured and ready for further analysis. The main steps of this project are: data loading, data cleaning, handling missing values, standardizing city names, splitting routes into departure and destination cities, and preparing the dataset for future analysis such as regression or hypothesis testing.
-
-**Technology**
-* Python
-* Excel
-
-**Results:**
-* Cleaned and validated dataset, ready for exploratory data analysis (EDA) or advanced analysis like regression.
-* Corrected city names and standardized routes by splitting them into departure and destination.
-* Business recommendation to handle missing values for regression analysis by excluding or imputing values in key fields like food, entertainment, and wifi.
 
 ### [E-commerce Database Management System](https://github.com/MuzafferCemAtes/DataAnalystPortfolio/tree/main/SQL_E-Commerse_Database_Project)
 
