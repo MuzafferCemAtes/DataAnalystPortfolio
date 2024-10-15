@@ -28,7 +28,9 @@ If you want to check my CV: [Muzaffer Cem Ates](https://github.com/MuzafferCemAt
 
 ## Table of Content
 - [About](#about)
-- [Portfolio Projects](#portfolio-projects)
+- [Capstone Projects](#capstone-projects)
+    + [British Airways Reviews](#british-airways-review)
+- [Skill Development Projects](#portfolio-projects)
   + [Data Visualization Project #1](#data-visualization-project-1)
   + [Data Visualization Project #2](#data-visualization-project-2)
   + [Data Cleaning Project #1](#data-cleaning-project-1)
