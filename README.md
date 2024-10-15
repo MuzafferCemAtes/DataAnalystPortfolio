@@ -32,8 +32,6 @@ If you want to check my CV: [Muzaffer Cem Ates](https://github.com/MuzafferCemAt
     + [British Airways Reviews Project](#british-airways-reviews)
 - [Skill Development Projects](#portfolio-projects)
   + [Identifying the most Efficient Striker of 2022-23 season](#identifying-the-most-efficient-striker-of-2022-23-season)
-  + [Data Visualization Project #2](#data-visualization-project-2)
-  + [Data Cleaning Project #1](#data-cleaning-project-1)
   + [E-commerce Database Management System](#e-commerce-database-management-system)
  
 
