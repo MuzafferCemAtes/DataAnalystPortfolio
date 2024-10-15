@@ -38,6 +38,10 @@ If you want to check my CV: [Muzaffer Cem Ates](https://github.com/MuzafferCemAt
  
 
 - [Contacts](#contacts)
+
+## Capstone Projects
+### [British Airways Reviews]
+
 ## Portfolio Projects
 
 ### [Data Visualization Project 1](https://github.com/MuzafferCemAtes/DataAnalystPortfolio/tree/main/Identifying%20the%20most%20Efficient%20Striker%20of%202022-23%20season)
