@@ -40,7 +40,7 @@ If you want to check my CV: [Muzaffer Cem Ates](https://github.com/MuzafferCemAt
 - [Contacts](#contacts)
 
 ## Capstone Projects
-### [British Airways Reviews]
+### [British Airways Reviews](https://github.com/MuzafferCemAtes/DataAnalystPortfolio/tree/main/British%20Airways%20Review)
 
 ## Portfolio Projects
 
