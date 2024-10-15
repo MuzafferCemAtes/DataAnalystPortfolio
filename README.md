@@ -42,7 +42,20 @@ If you want to check my CV: [Muzaffer Cem Ates](https://github.com/MuzafferCemAt
 ## Capstone Projects
 ### [British Airways Reviews](https://github.com/MuzafferCemAtes/DataAnalystPortfolio/tree/main/British%20Airways%20Review)
 
-## Portfolio Projects
+**Description:** This project analyzes and visualizes customer reviews and ratings for British Airways flights, using a structured dataset covering routes, aircraft types, in-flight services, and satisfaction scores. The project begins with data cleaning—loading the dataset, handling missing values, standardizing city names, and separating routes into departure and destination cities. The refined dataset feeds into an interactive Tableau dashboard, where users can explore key metrics such as seat comfort, food, entertainment, and cabin service across various filters like travel class, aircraft type, and traveler type. The dashboard also offers insights into ratings trends over time and comparisons by country and aircraft.
+
+**Technology:**
+* Python
+* Tableau
+
+**Results:**
+* A cleaned, validated dataset, ready for exploratory or advanced analysis.
+* Interactive visualizations comparing British Airways flight experiences across regions and aircraft.
+* Business recommendation to handle missing data in key fields for better predictive analysis.
+
+
+
+## Skill Development Projects
 
 ### [Data Visualization Project 1](https://github.com/MuzafferCemAtes/DataAnalystPortfolio/tree/main/Identifying%20the%20most%20Efficient%20Striker%20of%202022-23%20season)
 
