@@ -29,14 +29,17 @@ If you want to check my CV: [Muzaffer Cem Ates](https://github.com/MuzafferCemAt
 
 ## Table of Content
 - [About](#about)
+- [Certificates](#certificates)
 - [Capstone Projects](#capstone-projects)
     + [British Airways Reviews Project](#british-airways-reviews)
 - [Skill Development Projects](#portfolio-projects)
   + [Identifying the most Efficient Striker of 2022-23 season](#identifying-the-most-efficient-striker-of-2022-23-season)
   + [E-commerce Database Management System](#e-commerce-database-management-system)
- 
-
 - [Contacts](#contacts)
+
+##[Certificates](https://github.com/MuzafferCemAtes/DataAnalystPortfolio/tree/main/Certificates/Google%20Data%20Analytics%20Professional%20Certificate)
+Feel free to take a look at the certificates I have by clicking the link above!
+
 
 ## Capstone Projects
 ### [British Airways Reviews](https://github.com/MuzafferCemAtes/DataAnalystPortfolio/tree/main/British%20Airways%20Review)
