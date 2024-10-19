@@ -37,7 +37,7 @@ If you want to check my CV: [Muzaffer Cem Ates](https://github.com/MuzafferCemAt
   + [E-commerce Database Management System](#e-commerce-database-management-system)
 - [Contacts](#contacts)
 
-##[Certificates](https://github.com/MuzafferCemAtes/DataAnalystPortfolio/tree/main/Certificates/Google%20Data%20Analytics%20Professional%20Certificate)
+## [Certificates](https://github.com/MuzafferCemAtes/DataAnalystPortfolio/tree/main/Certificates/Google%20Data%20Analytics%20Professional%20Certificate)
 Feel free to take a look at the certificates I have by clicking the link above!
 
 
