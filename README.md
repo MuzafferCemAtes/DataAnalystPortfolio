@@ -75,7 +75,8 @@ Feel free to take a look at the certificates I have by clicking "Certificates"!
 * Provided insights into striker efficiency, highlighting the top 10 performers in Europe’s elite leagues.
 * Created dashboards that offer a comprehensive view of scoring efficiency, accuracy, and league difficulty.
 
-
+-----
+![erd-diagram](https://github.com/MuzafferCemAtes/DataAnalystPortfolio/blob/main/SQL_E-Commerse_Database_Project/ERD_Diagram.png)
 ### [E-commerce Database Management System](https://github.com/MuzafferCemAtes/DataAnalystPortfolio/tree/main/SQL_E-Commerse_Database_Project)
 
 **Description:** This project involves the creation of a robust database management system tailored for an e-commerce platform. It captures critical data related to customers, products, orders, payments, sellers, and store locations. The project includes a well-structured set of tables, views, and queries to manage and analyze core aspects of an e-commerce business. The primary objectives are to manage customer and seller information, track inventory and sales, handle payment processing, and monitor customer reviews and seller ratings. Key steps in the project include table creation, establishing relationships through primary and foreign keys, creating views for quick insights, and implementing queries for specific business analytics.
