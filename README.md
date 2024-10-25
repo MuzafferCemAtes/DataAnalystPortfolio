@@ -42,7 +42,7 @@ Feel free to take a look at the certificates I have by clicking "Certificates"!
 
 
 ## Capstone Projects
-https://github.com/MuzafferCemAtes/DataAnalystPortfolio/blob/main/British%20Airways%20Review/ss.png
+![dashboard](https://github.com/MuzafferCemAtes/DataAnalystPortfolio/blob/main/British%20Airways%20Review/ss.png)
 ### [British Airways Reviews](https://github.com/MuzafferCemAtes/DataAnalystPortfolio/tree/main/British%20Airways%20Review)
 [Click to see the dashboard](https://public.tableau.com/app/profile/muzaffer.cem.ates/viz/BritishAirwaysReviewWCleanData/Dashboard1)
 **Description:** This project analyzes and visualizes customer reviews and ratings for British Airways flights, using a structured dataset covering routes, aircraft types, in-flight services, and satisfaction scores. The project begins with data cleaning—loading the dataset, handling missing values, standardizing city names, and separating routes into departure and destination cities. The refined dataset feeds into an interactive Tableau dashboard, where users can explore key metrics such as seat comfort, food, entertainment, and cabin service across various filters like travel class, aircraft type, and traveler type. The dashboard also offers insights into ratings trends over time and comparisons by country and aircraft.
