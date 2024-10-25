@@ -35,6 +35,7 @@ If you want to check my CV: [Muzaffer Cem Ates](https://github.com/MuzafferCemAt
 - [Skill Development Projects](#portfolio-projects)
   + [Identifying the most Efficient Striker of 2022-23 season](#identifying-the-most-efficient-striker-of-2022-23-season)
   + [E-commerce Database Management System](#e-commerce-database-management-system)
+  + [Books to Scrape](#books-to-scrape)
 - [Contacts](#contacts)
 
 ## [Certificates](https://github.com/MuzafferCemAtes/DataAnalystPortfolio/tree/main/Certificates)
