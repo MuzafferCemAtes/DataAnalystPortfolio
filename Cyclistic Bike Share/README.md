@@ -145,14 +145,14 @@ Step 5: Share
 
 The dashboard above highlights the similarities and differences between Cyclistic members and casual riders.
 
-Similarities:
-Preferred Bike Type in Summer: Both casual and member riders prefer classic bikes over electric ones during the warmer months, likely due to the ease of riding without motor assistance.
-Popular Routes: Both membership types frequently use the same starting and ending locations, primarily near popular areas and the coast.
+- **Similarities:**
+  + Preferred Bike Type in Summer: Both casual and member riders prefer classic bikes over electric ones during the warmer months, likely due to the ease of riding without motor assistance.
+  + Popular Routes: Both membership types frequently use the same starting and ending locations, primarily near popular areas and the coast.
 Usage Decrease in Winter: Both types of riders have reduced usage during winter, although the extent of the drop varies.
-Differences:
-Ride Frequency by Time of Week:
-Casual Riders tend to use bikes more on weekends, indicating leisure-based usage.
-Members show higher usage during weekdays, suggesting they use bikes as part of their daily commute.
+- **Differences:**
+  + Ride Frequency by Time of Week:
+    + Casual Riders tend to use bikes more on weekends, indicating leisure-based usage.
+    + Members show higher usage during weekdays, suggesting they use bikes as part of their daily commute.
 Ride Duration:
 Casual Riders have significantly longer average ride durations (around 23 minutes), possibly reflecting more leisurely or exploratory trips.
 Members have shorter average durations (around 12 minutes), consistent with more purpose-driven trips.
