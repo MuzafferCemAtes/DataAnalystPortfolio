@@ -83,4 +83,4 @@ Unlikely Rides: Rides lasting less than 1 minute or more than 24 hours were cons
 
 Step 4: Analyze
 
-<img src="Cyclistic%20Bike%20Share/Graphs/AverageDistanceByMembership.png" alt="drawing" width="200"/>
+<img src="Graphs/AverageDistanceByMembership.png" alt="drawing" width="200"/>
