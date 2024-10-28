@@ -58,6 +58,20 @@ Feel free to take a look at the certificates I have by clicking "Certificates"!
 * Interactive visualizations comparing British Airways flight experiences across regions and aircraft.
 * Business recommendation to handle missing data in key fields for better predictive analysis.
 
+![dashboard](https://github.com/MuzafferCemAtes/DataAnalystPortfolio/blob/main/Cyclistic%20Bike%20Share/Dashboard%201.png)
+### [Google Data Analytics Professioal Certificate Capstone Project](https://github.com/MuzafferCemAtes/DataAnalystPortfolio/tree/main/Cyclistic%20Bike%20Share)
+[Click to see the dashboard](https://public.tableau.com/app/profile/muzaffer.cem.ates/viz/GoogleProject_17300801176240/Dashboard1)
+
+**Description:** This project, as part of the Google Data Analytics Professional Certificate, focuses on understanding how casual riders and annual members use Cyclistic bike-share services differently. The analysis follows Google’s data analysis process (Ask, Prepare, Process, Analyze, Share, and Act) and is based on a structured dataset covering ride details, bike types, usage patterns, and membership status. Starting with data preparation in PostgreSQL, the dataset was cleaned to remove duplicates, handle nulls, and derive key metrics like ride duration, distance, and trip type (round vs. one-way). The cleaned data was visualized in Tableau, highlighting usage patterns by membership type, time of day, and location, providing actionable insights into how Cyclistic can convert casual riders into annual members.
+
+**Technology**
+* PostgreSQL
+* Tableau
+
+**Results:**
+* A comprehensive and clean dataset ready for analysis, with derived metrics for enhanced insights.
+* Interactive visualizations showing key differences in bike usage patterns between casual riders and members.
+* Data-backed marketing strategies aimed at increasing annual memberships by targeting casual rider behaviors.
 
 ## Skill Development Projects
 ![dashboard-striker](https://github.com/MuzafferCemAtes/DataAnalystPortfolio/blob/main/Identifying%20the%20most%20Efficient%20Striker%20of%202022-23%20season/ss.png)
