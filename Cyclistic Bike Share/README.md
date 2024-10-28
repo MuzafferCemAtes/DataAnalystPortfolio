@@ -142,6 +142,7 @@ During the summer, both casual and member riders overwhelmingly prefer classic b
 Step 5: Share
 
 <img src="Dashboard 1.png" alt="drawing" width="1000"/>
+View [Dashboard](https://public.tableau.com/app/profile/muzaffer.cem.ates/viz/GoogleProject_17300801176240/Dashboard1)
 
 The dashboard above highlights the similarities and differences between Cyclistic members and casual riders.
 
@@ -153,18 +154,18 @@ Usage Decrease in Winter: Both types of riders have reduced usage during winter,
   + Ride Frequency by Time of Week:
     + Casual Riders tend to use bikes more on weekends, indicating leisure-based usage.
     + Members show higher usage during weekdays, suggesting they use bikes as part of their daily commute.
-Ride Duration:
-Casual Riders have significantly longer average ride durations (around 23 minutes), possibly reflecting more leisurely or exploratory trips.
-Members have shorter average durations (around 12 minutes), consistent with more purpose-driven trips.
-Bike Type Usage Pattern:
-Casual Riders use docked bikes, especially early in the year, but drop them after August.
-Members do not use docked bikes at all, preferring electric or classic bikes.
-Round Trip Preference:
-Casual Riders are more likely to take round trips (8.25%), which could indicate leisurely rides that start and end in the same location.
-Members mostly take non-round trips (97.44%), which aligns with a commute-focused pattern.
-Hourly Usage Pattern:
-Casual Riders peak usage occurs in the afternoons on weekends, aligning with a recreational pattern.
-Members show a peak in the mornings and evenings during weekdays, consistent with typical commute hours.
+  + Ride Duration:
+    + Casual Riders have significantly longer average ride durations (around 23 minutes), possibly reflecting more leisurely or exploratory trips.
+    + Members have shorter average durations (around 12 minutes), consistent with more purpose-driven trips.
+  + Bike Type Usage Pattern:
+    + Casual Riders use docked bikes, especially early in the year, but drop them after August.
+    + Members do not use docked bikes at all, preferring electric or classic bikes.
+  + Round Trip Preference:
+    + Casual Riders are more likely to take round trips (8.25%), which could indicate leisurely rides that start and end in the same location.
+    + Members mostly take non-round trips (97.44%), which aligns with a commute-focused pattern.
+  + Hourly Usage Pattern:
+    + Casual Riders peak usage occurs in the afternoons on weekends, aligning with a recreational pattern.
+    + Members show a peak in the mornings and evenings during weekdays, consistent with typical commute hours.
 
 Step 6: Act
 
