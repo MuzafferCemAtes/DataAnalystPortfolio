@@ -32,7 +32,7 @@ If you want to check my CV: [Muzaffer Cem Ates](https://github.com/MuzafferCemAt
 - [Certificates](#certificates)
 - [Capstone Projects](#capstone-projects)
     + [British Airways Reviews Project](#british-airways-reviews)
-    + [Google Data Analytics Professioal Certificate Capstone Project](#google_data_analytics_professioal_certificate_capstone_project)
+    + [Google Data Analytics Professional Certificate Capstone Project](#google-data-analytics-professional-certificate-capstone-project)
 - [Skill Development Projects](#portfolio-projects)
   + [Identifying the most Efficient Striker of 2022-23 season](#identifying-the-most-efficient-striker-of-2022-23-season)
   + [E-commerce Database Management System](#e-commerce-database-management-system)
@@ -62,7 +62,7 @@ Feel free to take a look at the certificates I have by clicking "Certificates"!
 ----
 
 ![dashboard](https://github.com/MuzafferCemAtes/DataAnalystPortfolio/blob/main/Cyclistic%20Bike%20Share/Dashboard%201.png)
-### [Google Data Analytics Professioal Certificate Capstone Project](https://github.com/MuzafferCemAtes/DataAnalystPortfolio/tree/main/Cyclistic%20Bike%20Share)
+### [Google Data Analytics Professional Certificate Capstone Project](https://github.com/MuzafferCemAtes/DataAnalystPortfolio/tree/main/Cyclistic%20Bike%20Share)
 [Click to see the dashboard](https://public.tableau.com/app/profile/muzaffer.cem.ates/viz/GoogleProject_17300801176240/Dashboard1)
 
 **Description:** This project, as part of the Google Data Analytics Professional Certificate, focuses on understanding how casual riders and annual members use Cyclistic bike-share services differently. The analysis follows Google’s data analysis process (Ask, Prepare, Process, Analyze, Share, and Act) and is based on a structured dataset covering ride details, bike types, usage patterns, and membership status. Starting with data preparation in PostgreSQL, the dataset was cleaned to remove duplicates, handle nulls, and derive key metrics like ride duration, distance, and trip type (round vs. one-way). The cleaned data was visualized in Tableau, highlighting usage patterns by membership type, time of day, and location, providing actionable insights into how Cyclistic can convert casual riders into annual members.
