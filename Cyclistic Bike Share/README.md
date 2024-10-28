@@ -170,7 +170,7 @@ Step 6: Act
 
 Based on the analysis above, we can develop marketing strategies to encourage casual riders to become Cyclistic members. Here is my proposed approach:
 
-* **Targeted Promotions for Weekend Riders**
+- **Targeted Promotions for Weekend Riders**
 + Weekend Membership Package: Design a package for casual riders who ride mainly on weekends, offering benefits that cater specifically to this pattern.
 + Discounted Trials on Weekends: Offer free or discounted weekend trials for casual riders. This allows them to experience the benefits of membership firsthand on the days they typically ride.
 Seasonal Discounts: As casual riders prefer bikes more in the summer, launch promotional membership rates or special summer membership offers. Encourage casual riders to join during peak season when their usage is highest.
