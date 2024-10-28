@@ -57,31 +57,37 @@ The dataset provides adequate details, including timestamps and membership type,
 Initial Observations
 Minor data issues like blanks and potential duplicates will be checked and addressed in the Process phase.
 
-Step 3: Process
-Data Combination
-Using PostgreSQL, we combined multiple monthly CSV files into a single unified table, cyclistic_data, resulting in over 5.7 million records. This table includes key details such as:
-Ride ID: A unique identifier for each ride.
-Bike Type: The type of bike used (e.g., classic, electric).
-Timestamps: Start and end times for each ride.
-Station Information: Names and IDs for starting and ending stations, along with their latitude and longitude coordinates.
-Membership Type: Specifies whether the rider is a casual user or an annual member.
-Data Cleaning
-To ensure data quality and avoid duplicated or incomplete records, we created a cleaned version of the table named cyclistic_data_clean. This step involved:
-Removing Duplicates: We retained only distinct records to avoid double-counting.
-Filtering for Completeness: Rows with null values in critical fields (e.g., ride ID, bike type, timestamps, and station information) were excluded.
-Data Enrichment
-To facilitate deeper analysis, we added several derived columns:
-Time Features: New columns for month, day of the week, and specific time were extracted from the started_at and ended_at timestamps. These additions enabled us to examine seasonal and weekly usage trends.
-Key Metrics:
-Ride Duration: Calculated by finding the time difference between start and end times, providing insight into how long each ride lasted.
-Distance: Using the Haversine formula, we computed the approximate distance between the start and end coordinates, which allows for a comparison of ride distances.
-Round Trip Indicator: A boolean column (is_round_trip) was added to denote if the start and end stations were the same, indicating a round trip.
-Data Filtering
+### Step 3: Process
+
+- **Data Combination**
+  Using PostgreSQL, we combined multiple monthly CSV files into a single unified table, cyclistic_data, resulting in over 5.7 million records. This table includes key details such as:
+    + Ride ID: A unique identifier for each ride.
+    + Bike Type: The type of bike used (e.g., classic, electric).
+    + Timestamps: Start and end times for each ride.
+    + Station Information: Names and IDs for starting and ending stations, along with their latitude and longitude coordinates.
+    + Membership Type: Specifies whether the rider is a casual user or an annual member.
+ 
+- **Data Cleaning**
+
+  To ensure data quality and avoid duplicated or incomplete records, we created a cleaned version of the table named cyclistic_data_clean. This step involved:
+    + Removing Duplicates: We retained only distinct records to avoid double-counting.
+    + Filtering for Completeness: Rows with null values in critical fields (e.g., ride ID, bike type, timestamps, and station information) were excluded.
+
+- **Data Enrichment**
+
+  To facilitate deeper analysis, we added several derived columns:
+    + Time Features: New columns for month, day of the week, and specific time were extracted from the started_at and ended_at timestamps. These additions enabled us to examine seasonal and weekly usage trends.
+    + Key Metrics:
+      + Ride Duration: Calculated by finding the time difference between start and end times, providing insight into how long each ride lasted.
+      + Distance: Using the Haversine formula, we computed the approximate distance between the start and end coordinates, which allows for a comparison of ride distances.
+      + Round Trip Indicator: A boolean column (is_round_trip) was added to denote if the start and end stations were the same, indicating a round trip.
+  
+- **Data Filtering**
 To focus on realistic ride data, we removed outliers:
-Unlikely Rides: Rides lasting less than 1 minute or more than 24 hours were considered unlikely and removed, as they likely represent data errors or unintentional rentals.
+    + Unlikely Rides: Rides lasting less than 1 minute or more than 24 hours were considered unlikely and removed, as they likely represent data errors or unintentional rentals.
 
 
-Step 4: Analyze
+### Step 4: Analyze
 
 With the data prepared and stored in a structured format, it’s ready for analysis. I queried key tables to extract relevant information on usage patterns, ride durations, and bike types, and then visualized these insights in Tableau for a clear and compelling presentation.
 The guiding question for this analysis is: How do annual members and casual riders use Cyclistic bikes differently?
@@ -139,7 +145,7 @@ The ride type analysis shows a clear distinction between casual and member rider
 Casual riders use docked bikes early in the year, but this usage drops off by August, while members consistently avoid docked bikes entirely. This distinction might point to different preferences or usage patterns between the two groups.
 During the summer, both casual and member riders overwhelmingly prefer classic bikes over electric ones. This suggests that the appeal of electric bikes might be linked to colder weather, potentially offering an advantage when physical effort is less desirable. While we might speculate that cost could also influence this choice, we don’t have data to confirm that.
 
-Step 5: Share
+### Step 5: Share
 
 <img src="Dashboard 1.png" alt="drawing" width="1000"/>
 
@@ -168,7 +174,7 @@ Usage Decrease in Winter: Both types of riders have reduced usage during winter,
     + Casual Riders peak usage occurs in the afternoons on weekends, aligning with a recreational pattern.
     + Members show a peak in the mornings and evenings during weekdays, consistent with typical commute hours.
 
-Step 6: Act
+### Step 6: Act
 
 Based on the analysis above, we can develop marketing strategies to encourage casual riders to become Cyclistic members. Here is my proposed approach:
 
