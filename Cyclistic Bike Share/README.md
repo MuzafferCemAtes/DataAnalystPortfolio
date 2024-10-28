@@ -1,6 +1,6 @@
 Cyclistic - Bike Share
 
-Introduction
+## Introduction
 
 This project is the capstone for the Google Data Analytics Professional Certificate course. In this scenario, I take on the role of a junior data analyst at Cyclistic, a fictional bike-share company. The goal of the analysis is to understand the differences in bike usage between Cyclistic’s casual riders and annual members. By gaining insights into these patterns, Cyclistic aims to develop strategies to convert casual riders into members.
 
@@ -12,7 +12,7 @@ As a junior data analyst on the marketing analytics team at Cyclistic, a bike-sh
 
 The director of marketing, Lily Moreno, believes that the future success of Cyclistic depends on increasing the number of annual memberships. Therefore, she wants our team to analyze how casual riders and annual members use Cyclistic bikes differently, as this insight will drive a marketing strategy to convert casual riders into annual members. However, any recommendations must be supported by compelling data insights and visualizations, as they will need to be approved by the detail-oriented Cyclistic executive team.
 
-### Guiding Questions
+## Guiding Questions
 
 Our analysis and future marketing program are driven by three key questions:
 
@@ -22,42 +22,49 @@ Our analysis and future marketing program are driven by three key questions:
 
 I have been assigned the first question: understanding the differences in how annual members and casual riders use Cyclistic bikes. 
 
-Step 1: Ask
-Business Task
-Objective: Understand the differences in usage patterns between Cyclistic’s casual riders and annual members to create strategies for converting casual riders to members.
-Key Stakeholders
-Lily Moreno - Director of Marketing, leading campaign development and responsible for increasing annual memberships.
-Cyclistic Marketing Analytics Team - Analyzes and reports data to shape marketing strategies.
-Cyclistic Executive Team - Decision-makers approving the final strategy.
+## Step 1: Ask
+- **Business Task**
+  + Objective: Understand the differences in usage patterns between Cyclistic’s casual riders and annual members to create strategies for converting casual riders to members.
+  + Key Stakeholders
+    + Lily Moreno - Director of Marketing, leading campaign development and responsible for increasing annual memberships.
+    + Cyclistic Marketing Analytics Team - Analyzes and reports data to shape marketing strategies.
+    + Cyclistic Executive Team - Decision-makers approving the final strategy.
 
-Step 2: Prepare
-Data Location
-Source: Divvy Trip Data - provided by Motivate International Inc. under a licensed agreement.
-Storage: Data files are stored on a local drive for organized access and analysis.
-Data Organization
-The dataset contains the following columns:
-ride_id, rideable_type, started_at, ended_at, start_station_name, start_station_id, end_station_name, end_station_id, start_lat, start_lng, end_lat, end_lng, member_casual
-These fields provide details on bike type, location data, and user membership type, all essential for analyzing rider behavior and addressing our business question.
-Credibility and ROCCC Assessment
-Reliable: The data is directly sourced from Cyclistic’s licensed repository.
-Original: It is sourced directly from Cyclistic, ensuring originality.
-Comprehensive: Includes necessary data fields to address the business task. We will verify comprehensiveness further by ensuring all rider types and bike types are represented.
-Current: Represents trips from 2023, providing up-to-date data for analysis.
-Cited: The data is cited and openly licensed, maintaining legal integrity.
-Licensing, Privacy, Security, and Accessibility
-The data is licensed for public use and has no personally identifiable information (PII), adhering to privacy and security standards.
-Data Integrity Verification Plan
-To ensure data integrity:
-Missing Values Check: Identify blank values in essential columns.
-Duplicate Check: Ensure unique ride_ids to avoid double-counting rides.
-Date Format Verification: Confirm valid and consistent date formats for started_at and ended_at.
-Category Consistency Check: Verify consistency in member_casual and rideable_type categories.
-Relevance to Business Task
-The dataset provides adequate details, including timestamps and membership type, allowing for a detailed analysis of how casual riders and annual members use Cyclistic bikes differently.
-Initial Observations
-Minor data issues like blanks and potential duplicates will be checked and addressed in the Process phase.
+## Step 2: Prepare
 
-### Step 3: Process
+- **Data Location** 
+  + Source: [Divvy Trip Data](https://divvy-tripdata.s3.amazonaws.com/index.html) - provided by Motivate International Inc. under a licensed agreement.
+  + Storage: Data files are stored on a local drive for organized access and analysis.
+- **Data Organization**
+
+  + The dataset contains the following columns:
+    + ride_id, rideable_type, started_at, ended_at, start_station_name, start_station_id, end_station_name, end_station_id, start_lat, start_lng, end_lat, end_lng, member_casual
+    + These fields provide details on bike type, location data, and user membership type, all essential for analyzing rider behavior and addressing our business question.
+  
+- **Credibility and ROCCC Assessment**
+  + Reliable: The data is directly sourced from Cyclistic’s licensed repository.
+  + Original: It is sourced directly from Cyclistic, ensuring originality.
+  + Comprehensive: Includes necessary data fields to address the business task. We will verify comprehensiveness further by ensuring all rider types and bike types are represented.
+  + Current: Represents trips from 2023, providing up-to-date data for analysis.
+  + Cited: The data is cited and openly licensed, maintaining legal integrity.
+
+- **Licensing, Privacy, Security, and Accessibility**
+  + The data is licensed for public use and has no personally identifiable information (PII), adhering to privacy and security standards.
+
+- **Data Integrity Verification Plan**
+  + To ensure data integrity:
+    + Missing Values Check: Identify blank values in essential columns.
+    + Duplicate Check: Ensure unique ride_ids to avoid double-counting rides.
+    + Date Format Verification: Confirm valid and consistent date formats for started_at and ended_at.
+  + Category Consistency Check: Verify consistency in member_casual and rideable_type categories.
+
+- **Relevance to Business Task**
+  + The dataset provides adequate details, including timestamps and membership type, allowing for a detailed analysis of how casual riders and annual members use Cyclistic bikes differently.
+
+- Initial Observations
+  + Minor data issues like blanks and potential duplicates will be checked and addressed in the Process phase.
+
+## Step 3: Process
 
 - **Data Combination**
   Using PostgreSQL, we combined multiple monthly CSV files into a single unified table, cyclistic_data, resulting in over 5.7 million records. This table includes key details such as:
@@ -87,7 +94,7 @@ To focus on realistic ride data, we removed outliers:
     + Unlikely Rides: Rides lasting less than 1 minute or more than 24 hours were considered unlikely and removed, as they likely represent data errors or unintentional rentals.
 
 
-### Step 4: Analyze
+## Step 4: Analyze
 
 With the data prepared and stored in a structured format, it’s ready for analysis. I queried key tables to extract relevant information on usage patterns, ride durations, and bike types, and then visualized these insights in Tableau for a clear and compelling presentation.
 The guiding question for this analysis is: How do annual members and casual riders use Cyclistic bikes differently?
@@ -145,7 +152,7 @@ The ride type analysis shows a clear distinction between casual and member rider
 Casual riders use docked bikes early in the year, but this usage drops off by August, while members consistently avoid docked bikes entirely. This distinction might point to different preferences or usage patterns between the two groups.
 During the summer, both casual and member riders overwhelmingly prefer classic bikes over electric ones. This suggests that the appeal of electric bikes might be linked to colder weather, potentially offering an advantage when physical effort is less desirable. While we might speculate that cost could also influence this choice, we don’t have data to confirm that.
 
-### Step 5: Share
+## Step 5: Share
 
 <img src="Dashboard 1.png" alt="drawing" width="1000"/>
 
@@ -174,7 +181,7 @@ Usage Decrease in Winter: Both types of riders have reduced usage during winter,
     + Casual Riders peak usage occurs in the afternoons on weekends, aligning with a recreational pattern.
     + Members show a peak in the mornings and evenings during weekdays, consistent with typical commute hours.
 
-### Step 6: Act
+## Step 6: Act
 
 Based on the analysis above, we can develop marketing strategies to encourage casual riders to become Cyclistic members. Here is my proposed approach:
 
