@@ -83,6 +83,11 @@ Unlikely Rides: Rides lasting less than 1 minute or more than 24 hours were cons
 
 Step 4: Analyze
 
+With the data prepared and stored in a structured format, it’s ready for analysis. I queried key tables to extract relevant information on usage patterns, ride durations, and bike types, and then visualized these insights in Tableau for a clear and compelling presentation.
+The guiding question for this analysis is: How do annual members and casual riders use Cyclistic bikes differently?
+
+----
+
 <img src="Graphs/AverageDistanceByMembership.png" alt="drawing" width="400"/>
 The analysis shows that both casual and member riders have a similar average distance per ride, with casual riders covering approximately 2.15 km and members covering 2.07 km. This negligible difference suggests that, despite differences in membership type, riders tend to use Cyclistic bikes for trips of similar lengths on average.
 
