@@ -93,43 +93,43 @@ This analysis reveals a substantial difference in average ride duration between 
 
 ----
 
-<img src="Graphs/CyclisticBikeUsagePatternsByMembershipType.png" alt="drawing" width="200"/>
+<img src="Graphs/CyclisticBikeUsagePatternsByMembershipType.png" alt="drawing" width="400"/>
 This graph highlights distinct patterns in bike usage between member and casual riders. Members use Cyclistic bikes significantly more often than casual riders, particularly on weekdays. This trend suggests that members likely use the bikes for commuting or other routine travel needs during the workweek. In contrast, casual riders show a higher bike usage on weekends, hinting at a more recreational or leisure-oriented purpose. The preference of casual riders for weekend rides aligns with a leisurely usage pattern, while members’ weekday dominance points to a practical, daily commuting trend.
 This chart further supports the contrasting usage patterns between members and casual riders by breaking down bike usage by the time of day. Casual riders predominantly use bikes in the afternoon during weekends, which aligns with recreational or leisure activities. For members, the most frequent usage times are mornings and evenings on weekdays, which points to commuting hours, such as traveling to and from work or other routine destinations. Interestingly, bike usage at night is relatively similar across both groups, indicating that night-time rides may serve diverse purposes for both members and casual users. This combination of day and hour analysis reinforces the notion of members relying on Cyclistic bikes for practical, structured routines, while casual riders lean towards spontaneous, leisure-based usage.
 
 ----
 
-<img src="Graphs/MonthlyUsageVolumeByMembershipType.png" alt="drawing" width="200"/>
+<img src="Graphs/MonthlyUsageVolumeByMembershipType.png" alt="drawing" width="400"/>
 
 The chart shows that both members and casual riders follow a similar seasonal pattern, with ride usage increasing through spring and peaking in the summer. However, in August, a unique divergence appears: member rides continue to increase, while casual rides begin to decrease. This contrast may indicate that members maintain consistent usage even in late summer, whereas casual riders may reduce their biking activities after the peak summer months.
 
 ----
 
-<img src="Graphs/WeeklyUsageTrendsByMembershipType.png" alt="drawing" width="200"/>
+<img src="Graphs/WeeklyUsageTrendsByMembershipType.png" alt="drawing" width="400"/>
 
 This chart further reinforces the earlier observation: members tend to use Cyclistic bikes more during the weekdays, likely for commuting purposes, as the usage peaks mid-week. Casual riders, however, show a clear preference for weekend usage, aligning with more leisure-oriented or recreational use. This pattern highlights the contrasting riding habits between the two groups.
 
 ----
 
-<img src="Graphs/AverageRideDurationByMonthAndMembershipType.png" alt="drawing" width="200"/>
+<img src="Graphs/AverageRideDurationByMonthAndMembershipType.png" alt="drawing" width="400"/>
 
 This chart shows that casual riders tend to use Cyclistic bikes for longer durations in the summer months, with a noticeable drop in average ride duration during winter. This seasonal variation aligns with leisure and recreational use, which typically peaks during warmer weather. For annual members, the average ride duration remains relatively stable throughout the year, suggesting a more consistent usage pattern likely tied to routine or commuting needs, regardless of the season.
 
 ----
 
-<img src="Graphs/PopularStartingLocations.png" alt="drawing" width="200"/> <img src="Graphs/PopularEndingLocations.png" alt="drawing" width="200"/> 
+<img src="Graphs/PopularStartingLocations.png" alt="drawing" width="300"/> <img src="Graphs/PopularEndingLocations.png" alt="drawing" width="300"/> 
 
 The popular start and end locations remain consistent for both member types, showing no substantial change. However, casual riders tend to start and end their rides near the coast, possibly indicating recreational or leisure activities. In contrast, annual members frequently use bikes in central areas of the city, where markets, offices, and other work-related locations are situated, suggesting that members likely use bikes for commuting purposes.
 
 ----
 
-<img src="Graphs/RideType.png" alt="drawing" width="200"/>
+<img src="Graphs/RideType.png" alt="drawing" width="400"/>
 
 The ride type analysis shows a clear distinction between casual and member riders. Casual riders take round trips (8.25%) significantly more often than members (2.56%), indicating a preference for returning to the same starting location. This pattern suggests casual riders likely use the bikes for recreational purposes, where a round trip is more convenient. In contrast, members, who have a higher percentage of one-way trips (97.44%), likely use the bikes for commuting or point-to-point travel, supporting a practical, transit-oriented usage pattern.
 
 ----
 
-<img src="Graphs/UsageOfDifferentBikeTypesThroughoutTheYear.png" alt="drawing" width="200"/>
+<img src="Graphs/UsageOfDifferentBikeTypesThroughoutTheYear.png" alt="drawing" width="400"/>
 
 Casual riders use docked bikes early in the year, but this usage drops off by August, while members consistently avoid docked bikes entirely. This distinction might point to different preferences or usage patterns between the two groups.
 During the summer, both casual and member riders overwhelmingly prefer classic bikes over electric ones. This suggests that the appeal of electric bikes might be linked to colder weather, potentially offering an advantage when physical effort is less desirable. While we might speculate that cost could also influence this choice, we don’t have data to confirm that.
