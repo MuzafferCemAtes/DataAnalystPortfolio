@@ -143,7 +143,7 @@ Step 5: Share
 
 <img src="Dashboard 1.png" alt="drawing" width="1000"/>
 
-View [Dashboard](`https://public.tableau.com/app/profile/muzaffer.cem.ates/viz/GoogleProject_17300801176240/Dashboard1`)
+View [Dashboard](https://public.tableau.com/app/profile/muzaffer.cem.ates/viz/GoogleProject_17300801176240/Dashboard1)
 
 The dashboard above highlights the similarities and differences between Cyclistic members and casual riders.
 
