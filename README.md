@@ -32,6 +32,7 @@ If you want to check my CV: [Muzaffer Cem Ates](https://github.com/MuzafferCemAt
 - [Certificates](#certificates)
 - [Capstone Projects](#capstone-projects)
     + [British Airways Reviews Project](#british-airways-reviews)
+    + [Google Data Analytics Professioal Certificate Capstone Project](#cyclistic_bike_share)
 - [Skill Development Projects](#portfolio-projects)
   + [Identifying the most Efficient Striker of 2022-23 season](#identifying-the-most-efficient-striker-of-2022-23-season)
   + [E-commerce Database Management System](#e-commerce-database-management-system)
@@ -57,6 +58,8 @@ Feel free to take a look at the certificates I have by clicking "Certificates"!
 * A cleaned, validated dataset, ready for exploratory or advanced analysis.
 * Interactive visualizations comparing British Airways flight experiences across regions and aircraft.
 * Business recommendation to handle missing data in key fields for better predictive analysis.
+
+----
 
 ![dashboard](https://github.com/MuzafferCemAtes/DataAnalystPortfolio/blob/main/Cyclistic%20Bike%20Share/Dashboard%201.png)
 ### [Google Data Analytics Professioal Certificate Capstone Project](https://github.com/MuzafferCemAtes/DataAnalystPortfolio/tree/main/Cyclistic%20Bike%20Share)
@@ -91,6 +94,7 @@ Feel free to take a look at the certificates I have by clicking "Certificates"!
 * Created dashboards that offer a comprehensive view of scoring efficiency, accuracy, and league difficulty.
 
 -----
+
 ![erd-diagram](https://github.com/MuzafferCemAtes/DataAnalystPortfolio/blob/main/SQL_E-Commerse_Database_Project/ERD_Diagram.png)
 ### [E-commerce Database Management System](https://github.com/MuzafferCemAtes/DataAnalystPortfolio/tree/main/SQL_E-Commerse_Database_Project)
 
