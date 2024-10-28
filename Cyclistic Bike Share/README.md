@@ -139,11 +139,11 @@ The ride type analysis shows a clear distinction between casual and member rider
 Casual riders use docked bikes early in the year, but this usage drops off by August, while members consistently avoid docked bikes entirely. This distinction might point to different preferences or usage patterns between the two groups.
 During the summer, both casual and member riders overwhelmingly prefer classic bikes over electric ones. This suggests that the appeal of electric bikes might be linked to colder weather, potentially offering an advantage when physical effort is less desirable. While we might speculate that cost could also influence this choice, we don’t have data to confirm that.
 
-Step 5:
-
-The dashboard above highlights the similarities and differences between Cyclistic members and casual riders.
+Step 5: Share
 
 <img src="Dashboard 1.png" alt="drawing" width="1000"/>
+
+The dashboard above highlights the similarities and differences between Cyclistic members and casual riders.
 
 Similarities:
 Preferred Bike Type in Summer: Both casual and member riders prefer classic bikes over electric ones during the warmer months, likely due to the ease of riding without motor assistance.
@@ -165,3 +165,28 @@ Members mostly take non-round trips (97.44%), which aligns with a commute-focuse
 Hourly Usage Pattern:
 Casual Riders peak usage occurs in the afternoons on weekends, aligning with a recreational pattern.
 Members show a peak in the mornings and evenings during weekdays, consistent with typical commute hours.
+
+Step 6: Act
+
+Based on the analysis above, we can develop marketing strategies to encourage casual riders to become Cyclistic members. Here is my proposed approach:
+
+* **Targeted Promotions for Weekend Riders**
++ Weekend Membership Package: Design a package for casual riders who ride mainly on weekends, offering benefits that cater specifically to this pattern.
++ Discounted Trials on Weekends: Offer free or discounted weekend trials for casual riders. This allows them to experience the benefits of membership firsthand on the days they typically ride.
+Seasonal Discounts: As casual riders prefer bikes more in the summer, launch promotional membership rates or special summer membership offers. Encourage casual riders to join during peak season when their usage is highest.
+3. Encourage Shorter, Frequent Rides
+"Short Commute" Membership Tier: Create a membership option for riders who prefer shorter trips but want more frequent usage. This option could be marketed as ideal for casual riders who want to shift to more practical daily or weekly commuting.
+Commute Conversion Campaign: For casual riders who show a commute-like pattern (e.g., weekday afternoon usage), create ads promoting the convenience and savings of being a member for short, routine rides.
+4. Leverage Electric Bike Perks
+Winter Electric Bike Promotion: Since casual riders tend to use electric bikes more in colder months, offer a membership benefit with exclusive access or discounts on electric bikes during winter.
+Electric Bike Experience Days: Host “Electric Bike Tryout Days” on weekends in colder months, where casual riders can try electric bikes with guided tours, highlighting the comfort and ease of electric rides as a member.
+5. Reward Round-Trip Riders
+Round-Trip Benefits: For casual riders who frequently take round trips, introduce incentives like discounts on round trips for members or credits that can be redeemed on their next ride.
+Scenic Route Maps for Members: Provide exclusive member access to curated scenic route maps for weekend rides. These can highlight popular destinations and scenic routes accessible by bike, reinforcing the value of membership for leisurely, scenic excursions.
+6. Personalized Marketing through Targeted Email Campaigns
+Data-Driven Campaigns: Utilize ride data to send personalized emails to casual riders based on their usage patterns. For instance, those who ride primarily on weekends could receive messages about the savings of weekend memberships, while frequent weekday users could be shown benefits of a commute-friendly membership.
+Testimonial Stories: Share member testimonials, especially from riders who started as casual users and now use bikes for both leisure and commuting. Personal stories can help casual riders visualize the benefits of membership.
+7. Launch a Loyalty Program for Casual Riders
+Points System for Membership Discounts: Create a loyalty program where casual riders earn points per ride, which can later be redeemed as a discount on membership. For example, “Ride 5 times, get 10% off on membership.”
+Exclusive Member Events: Hold events that only members or loyalty program participants can attend. This can include guided group rides, maintenance workshops, or seasonal celebrations that encourage community-building.
+
