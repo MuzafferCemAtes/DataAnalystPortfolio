@@ -31,18 +31,10 @@ This project demonstrates the basics of data cleaning, focusing on preparing a d
    - The dataset is now clean and ready for analysis.
    - Further steps, such as outlier detection and handling, will be included in the intermediate-level data cleaning project.
 
-## How to Use
-- Clone the repository.
-- Open `beginner_basic_data_cleaning.ipynb` in Jupyter Notebook or any compatible environment.
-- Run each cell sequentially to observe the data cleaning process.
 
 ## Next Steps
 This beginner-level project covers essential data cleaning techniques. For more advanced techniques, see the intermediate-level data cleaning project, which will include tasks such as outlier detection and handling.
 
-## Requirements
-- Python 3.x
-- Pandas
-- Matplotlib (for visualizations, optional)
 
 ## License
 This project is open-source and available under the MIT License.
