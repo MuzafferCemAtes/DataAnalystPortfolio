@@ -36,11 +36,11 @@ If you want to check my CV: [Muzaffer Cem Ates](https://github.com/MuzafferCemAt
   + Data Cleaning
      + [Uncleaned Laptop Price Dataset](https://github.com/MuzafferCemAtes/DataAnalystPortfolio/tree/main/Uncleaned%20Laptop%20Price%20Dataset)
   + Data Visualization
-     + [Identifying the most Efficient Striker of 2022-23 season](#identifying-the-most-efficient-striker-of-2022-23-season)
+     + [Identifying the most Efficient Striker of 2022-23 season](https://github.com/MuzafferCemAtes/DataAnalystPortfolio/tree/main/Identifying%20the%20most%20Efficient%20Striker%20of%202022-23%20season)
   + Web Scrapping
-     + [Books to Scrape](#books-to-scrape)
+     + [Books to Scrape](https://github.com/MuzafferCemAtes/DataAnalystPortfolio/tree/main/Books%20to%20Scrape)
   + Database Design & Structure
-     + [E-commerce Database Management System](#e-commerce-database-management-system)
+     + [E-commerce Database Management System]([#e-commerce-database-management-system](https://github.com/MuzafferCemAtes/DataAnalystPortfolio/tree/main/SQL_E-Commerse_Database_Project))
 - [Contacts](#contacts)
 
 ## [Certificates](https://github.com/MuzafferCemAtes/DataAnalystPortfolio/tree/main/Certificates)
