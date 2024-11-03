@@ -40,7 +40,7 @@ If you want to check my CV: [Muzaffer Cem Ates](https://github.com/MuzafferCemAt
   + Web Scrapping
      + [Books to Scrape](https://github.com/MuzafferCemAtes/DataAnalystPortfolio/tree/main/Books%20to%20Scrape)
   + Database Design & Structure
-     + [E-commerce Database Management System]([#e-commerce-database-management-system](https://github.com/MuzafferCemAtes/DataAnalystPortfolio/tree/main/SQL_E-Commerse_Database_Project))
+     + [E-commerce Database Management System](https://github.com/MuzafferCemAtes/DataAnalystPortfolio/tree/main/SQL_E-Commerse_Database_Project)
 - [Contacts](#contacts)
 
 ## [Certificates](https://github.com/MuzafferCemAtes/DataAnalystPortfolio/tree/main/Certificates)
