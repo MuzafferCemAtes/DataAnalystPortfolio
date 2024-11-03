@@ -48,8 +48,8 @@ Feel free to take a look at the certificates I have by clicking "Certificates"!
 
 
 ## Capstone Projects
-![dashboard](https://github.com/MuzafferCemAtes/DataAnalystPortfolio/blob/main/British%20Airways%20Review/ss.png)
 ### [British Airways Reviews](https://github.com/MuzafferCemAtes/DataAnalystPortfolio/tree/main/British%20Airways%20Review)
+![dashboard](https://github.com/MuzafferCemAtes/DataAnalystPortfolio/blob/main/British%20Airways%20Review/ss.png)
 [Click to see the dashboard](https://public.tableau.com/app/profile/muzaffer.cem.ates/viz/BritishAirwaysReviewWCleanData/Dashboard1)
 
 **Description:** This project analyzes and visualizes customer reviews and ratings for British Airways flights, using a structured dataset covering routes, aircraft types, in-flight services, and satisfaction scores. The project begins with data cleaning—loading the dataset, handling missing values, standardizing city names, and separating routes into departure and destination cities. The refined dataset feeds into an interactive Tableau dashboard, where users can explore key metrics such as seat comfort, food, entertainment, and cabin service across various filters like travel class, aircraft type, and traveler type. The dashboard also offers insights into ratings trends over time and comparisons by country and aircraft.
@@ -64,9 +64,8 @@ Feel free to take a look at the certificates I have by clicking "Certificates"!
 * Business recommendation to handle missing data in key fields for better predictive analysis.
 
 ----
-
-![dashboard](https://github.com/MuzafferCemAtes/DataAnalystPortfolio/blob/main/Cyclistic%20Bike%20Share/Dashboard%201.png)
 ### [Google Data Analytics Professional Certificate Capstone Project](https://github.com/MuzafferCemAtes/DataAnalystPortfolio/tree/main/Cyclistic%20Bike%20Share)
+![dashboard](https://github.com/MuzafferCemAtes/DataAnalystPortfolio/blob/main/Cyclistic%20Bike%20Share/Dashboard%201.png)
 [Click to see the dashboard](https://public.tableau.com/app/profile/muzaffer.cem.ates/viz/GoogleProject_17300801176240/Dashboard1)
 
 **Description:** This project, as part of the Google Data Analytics Professional Certificate, focuses on understanding how casual riders and annual members use Cyclistic bike-share services differently. The analysis follows Google’s data analysis process (Ask, Prepare, Process, Analyze, Share, and Act) and is based on a structured dataset covering ride details, bike types, usage patterns, and membership status. Starting with data preparation in PostgreSQL, the dataset was cleaned to remove duplicates, handle nulls, and derive key metrics like ride duration, distance, and trip type (round vs. one-way). The cleaned data was visualized in Tableau, highlighting usage patterns by membership type, time of day, and location, providing actionable insights into how Cyclistic can convert casual riders into annual members.
