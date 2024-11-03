@@ -29,15 +29,18 @@ If you want to check my CV: [Muzaffer Cem Ates](https://github.com/MuzafferCemAt
 ## Table of Content
 - [About](#about)
 - [Certificates](#certificates)
-- [Capstone Projects](#capstone-projects)
+- Capstone Projects
     + [British Airways Reviews Project](#british-airways-reviews)
     + [Google Data Analytics Professional Certificate Capstone Project](#google-data-analytics-professional-certificate-capstone-project)
-- [Skill Development Projects](#portfolio-projects)
+- Skill Development Projects
   + Data Cleaning
-     + Intermediate: [Uncleaned Laptop Price Dataset](#uncleaned-laptop-price-dataset)
-  + [Identifying the most Efficient Striker of 2022-23 season](#identifying-the-most-efficient-striker-of-2022-23-season)
-  + [E-commerce Database Management System](#e-commerce-database-management-system)
-  + [Books to Scrape](#books-to-scrape)
+     + [Uncleaned Laptop Price Dataset](#uncleaned-laptop-price-dataset)
+  + Data Visualization
+     + [Identifying the most Efficient Striker of 2022-23 season](#identifying-the-most-efficient-striker-of-2022-23-season)
+  + Web Scrapping
+     + [Books to Scrape](#books-to-scrape)
+  + Database Design & Structure
+     + [E-commerce Database Management System](#e-commerce-database-management-system)
 - [Contacts](#contacts)
 
 ## [Certificates](https://github.com/MuzafferCemAtes/DataAnalystPortfolio/tree/main/Certificates)
