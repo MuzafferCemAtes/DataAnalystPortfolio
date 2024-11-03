@@ -34,7 +34,7 @@ If you want to check my CV: [Muzaffer Cem Ates](https://github.com/MuzafferCemAt
     + [Google Data Analytics Professional Certificate Capstone Project](#google-data-analytics-professional-certificate-capstone-project)
 - Skill Development Projects
   + Data Cleaning
-     + [Uncleaned Laptop Price Dataset]([#uncleaned-laptop-price-dataset](https://github.com/MuzafferCemAtes/DataAnalystPortfolio/tree/main/Uncleaned%20Laptop%20Price%20Dataset))
+     + [Uncleaned Laptop Price Dataset](https://github.com/MuzafferCemAtes/DataAnalystPortfolio/tree/main/Uncleaned%20Laptop%20Price%20Dataset)
   + Data Visualization
      + [Identifying the most Efficient Striker of 2022-23 season](#identifying-the-most-efficient-striker-of-2022-23-season)
   + Web Scrapping
