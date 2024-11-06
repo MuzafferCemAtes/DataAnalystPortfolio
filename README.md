@@ -32,6 +32,8 @@ If you want to check my CV: [Muzaffer Cem Ates](https://github.com/MuzafferCemAt
 - Capstone Projects
     + [British Airways Reviews Project](#british-airways-reviews)
     + [Google Data Analytics Professional Certificate Capstone Project](#google-data-analytics-professional-certificate-capstone-project)
+- Exploratory Data Analysis (EDA)
+   + [Supermarket Sales](https://github.com/MuzafferCemAtes/DataAnalystPortfolio/tree/main/Supermarket_Sales)
 - Skill Development Projects
   + Data Cleaning
      + [Uncleaned Laptop Price Dataset](https://github.com/MuzafferCemAtes/DataAnalystPortfolio/tree/main/Uncleaned%20Laptop%20Price%20Dataset)
