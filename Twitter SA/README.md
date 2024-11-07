@@ -39,4 +39,5 @@ The model's performance metrics indicate how well it classifies the sentiment. T
 pip install pandas numpy seaborn matplotlib nltk scikit-learn wordcloud
 
 
-This README provides a concise overview of the project’s objectives, structure, and results. Let me know if you'd like additional details added. &#8203;:contentReference[oaicite:0]{index=0}&#8203;
+## Credit
+Ryan Ahmed
