@@ -62,5 +62,5 @@ A profiling report is generated using `ydata_profiling` to provide an in-depth s
 ## Conclusion
 This project provides a comprehensive overview of supermarket sales data, with insights into customer behavior, sales performance across branches, and patterns in customer spending. No strong correlation was found between customer ratings and gross income, and sales appeared consistent over time without any noticeable trends.
 
-##Credit
+## Credit
 Bassim Eledath
