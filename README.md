@@ -28,7 +28,7 @@ If you want to check my CV: [Muzaffer Cem Ates](https://github.com/MuzafferCemAt
 
 ## Table of Content
 - [About](#about)
-- [Article](#article)
+- [Article abc](#article)
 - [Master's Degree Thesis](#master's-degree)
 - [Certificates](#certificates)
 - Capstone Projects
