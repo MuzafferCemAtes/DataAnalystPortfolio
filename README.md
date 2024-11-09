@@ -29,7 +29,7 @@ If you want to check my CV: [Muzaffer Cem Ates](https://github.com/MuzafferCemAt
 ## Table of Content
 - [About](#about)
 - [Article](#article)
-- [Master's Degree Thesis](#master's-degree-thesis)
+- [Master's Degree Thesis](#master's-degree)
 - [Certificates](#certificates)
 - Capstone Projects
     + [British Airways Reviews Project](#british-airways-reviews)
@@ -60,6 +60,7 @@ This thesis explores the role of solar energy in addressing global energy needs 
 # [Certificates](https://github.com/MuzafferCemAtes/DataAnalystPortfolio/tree/main/Certificates)
 Feel free to take a look at the certificates I have by clicking "Certificates"!
 
+----
 
 # Capstone Projects
 ## [British Airways Reviews](https://github.com/MuzafferCemAtes/DataAnalystPortfolio/tree/main/British%20Airways%20Review)
