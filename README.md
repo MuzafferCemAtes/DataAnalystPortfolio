@@ -29,7 +29,7 @@ If you want to check my CV: [Muzaffer Cem Ates](https://github.com/MuzafferCemAt
 ## Table of Content
 - [About](#about)
 - [Article](#article)
-- [Master's Degree Thesis](#masters-degree-thesis)
+- [Master's Degree Thesis](#master's-degree-thesis)
 - [Certificates](#certificates)
 - Capstone Projects
     + [British Airways Reviews Project](#british-airways-reviews)
