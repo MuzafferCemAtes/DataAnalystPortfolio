@@ -51,7 +51,7 @@ If you want to check my CV: [Muzaffer Cem Ates](https://github.com/MuzafferCemAt
 
 ## [Article](https://github.com/MuzafferCemAtes/DataAnalystPortfolio/tree/main/Article)
 
-#User Localization in an Indoor Environment by Combining Different Algorithms through Plurality Rule
+# User Localization in an Indoor Environment by Combining Different Algorithms through Plurality Rule
 
 This study by Muzaffer Cem Ateş, Osman Emre Gümüşoğlu, Aslınur Çolak, and Nilgün Fescioglu Unver explores enhancing user localization in indoor spaces like factories and smart homes using machine learning algorithms with Wi-Fi signals. Wi-Fi routers help determine user location based on signal strength, but no single machine learning algorithm consistently provides the highest accuracy. To address this, the study introduces the Majority algorithm, which combines results from five machine learning algorithms through a voting system, or plurality rule, to improve accuracy. It also highlights that using confidence intervals, rather than single accuracy rates, provides a more reliable method for comparing algorithms.
 
