@@ -49,11 +49,11 @@ If you want to check my CV: [Muzaffer Cem Ates](https://github.com/MuzafferCemAt
      + [E-commerce Database Management System](https://github.com/MuzafferCemAtes/DataAnalystPortfolio/tree/main/SQL_E-Commerse_Database_Project)
 - [Contacts](#contacts)
 
-## [Article](https://github.com/MuzafferCemAtes/DataAnalystPortfolio/tree/main/Article)
+## [Article: User Localization in an Indoor Environment by Combining Different Algorithms through Plurality Rule](https://github.com/MuzafferCemAtes/DataAnalystPortfolio/tree/main/Article)
 
 This study by Muzaffer Cem Ateş, Osman Emre Gümüşoğlu, Aslınur Çolak, and Nilgün Fescioglu Unver explores enhancing user localization in indoor spaces like factories and smart homes using machine learning algorithms with Wi-Fi signals. Wi-Fi routers help determine user location based on signal strength, but no single machine learning algorithm consistently provides the highest accuracy. To address this, the study introduces the Majority algorithm, which combines results from five machine learning algorithms through a voting system, or plurality rule, to improve accuracy. It also highlights that using confidence intervals, rather than single accuracy rates, provides a more reliable method for comparing algorithms.
 
-## [Master's Degree: Thesis](https://github.com/MuzafferCemAtes/DataAnalystPortfolio/tree/main/Master's%20Degree)
+## [Master's Degree: Supply Chain Analysis of Rooftop Solar Panels](https://github.com/MuzafferCemAtes/DataAnalystPortfolio/tree/main/Master's%20Degree)
 
 This thesis explores the role of solar energy in addressing global energy needs and environmental challenges. It highlights Turkey’s potential for solar energy, focusing on photovoltaic (PV) systems and their increasing significance worldwide. The study investigates the supply chain of PV panels in Turkey and analyzes the benefits of increasing domestic production. Using the I-JEDI model, the thesis examines economic and employment impacts under different scenarios, emphasizing how localizing production can boost economic growth and job creation. The study also includes a supply chain breakdown and cost analysis for rooftop solar systems, providing a comprehensive look at solar energy’s potential in Turkey.
 
