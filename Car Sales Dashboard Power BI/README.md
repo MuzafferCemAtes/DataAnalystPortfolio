@@ -84,26 +84,27 @@ The primary objective of this project is to design an interactive dashboard that
 
 ----
 
-##Key Insights from the Dashboard
+## Key Insights from the Dashboard
   #### 1. Overall Sales Performance:
+  - Total YTD Sales amount to $371.2M, with a YOY growth of 23.59%.
+  - Month-to-date (MTD) Sales: $54.28M.
 
-Total YTD Sales amount to $371.2M, with a YOY growth of 23.59%.
-Month-to-date (MTD) Sales: $54.28M.
-Average Price Trends:
+  #### 2. Average Price Trends:
+  - YTD Average Price: $28K.
+  - YOY Growth in Average Price: -0.79%, indicating a slight dip in average pricing.
 
-YTD Average Price: $28K.
-YOY Growth in Average Price: -0.79%, indicating a slight dip in average pricing.
-Cars Sold Analysis:
+#### 3. Cars Sold Analysis:
+  - YTD Cars Sold: 13.3K, with a YOY growth of 19.73%.
+  - MTD Cars Sold: 1.92K.
 
-YTD Cars Sold: 13.3K, with a YOY growth of 19.73%.
-MTD Cars Sold: 1.92K.
-Geographical Insights:
+#### 4. Geographical Insights:
+  - High sales activity is concentrated in regions like Austin, Scottsdale, and Greenville.
 
-High sales activity is concentrated in regions like Austin, Scottsdale, and Greenville.
-Company-Wise Trends:
+#### 5. Company-Wise Trends:
+  - Companies like Chevrolet and Ford dominate the sales trend with the highest number of cars sold.
+#### 6. Detailed Insights:
+  - The Details Dashboard allows drill-down analysis of individual car sales, providing a granular view of sales trends.
 
-Companies like Chevrolet and Ford dominate the sales trend with the highest number of cars sold.
-Detailed Insights:
-
-The Details Dashboard allows drill-down analysis of individual car sales, providing a granular view of sales trends.
+## Credit
+https://www.youtube.com/@datatutorials1
 
