@@ -11,69 +11,81 @@ This project aims to design and develop a dynamic and interactive Car Sales Dash
 #### Sales Overview
   - Year-to-Date (YTD) Total Sales
   - Month-to-Date (MTD) Total Sales
-Year-over-Year (YOY) Growth in Total Sales
-Difference between YTD Sales and Previous Year-to-Date (PTYD) Sales
-Average Price Analysis
-YTD Average Price
-MTD Average Price
-YOY Growth in Average Price
-Difference between YTD Average Price and PTYD Average Price
-Cars Sold Metrics
-YTD Cars Sold
-MTD Cars Sold
-YOY Growth in Cars Sold
-Difference between YTD Cars Sold and PTYD Cars Sold
-2. Charts Requirements
+  - Year-over-Year (YOY) Growth in Total Sales
+  - Difference between YTD Sales and Previous Year-to-Date (PTYD) Sales
+
+#### Average Price Analysis
+  - YTD Average Price
+  - MTD Average Price
+  - YOY Growth in Average Price
+  - Difference between YTD Average Price and PTYD Average Price
+
+#### Cars Sold Metrics
+  - YTD Cars Sold
+  - MTD Cars Sold
+  - YOY Growth in Cars Sold
+  - Difference between YTD Cars Sold and PTYD Cars Sold
+
+### 2. Charts Requirements
 The following visualizations have been implemented to provide a detailed view of sales performance:
 
-YTD Sales Weekly Trend:
+#### 1. YTD Sales Weekly Trend:
+  - A line chart illustrating the weekly trend of YTD sales.
+  - X-axis: Weeks of the year.
+  - Y-axis: Total sales amount.
 
-A line chart illustrating the weekly trend of YTD sales.
-X-axis: Weeks of the year.
-Y-axis: Total sales amount.
-YTD Total Sales by Body Style:
+#### 2. YTD Total Sales by Body Style:
+  - A pie chart showing the distribution of YTD total sales across different car body styles.
 
-A pie chart showing the distribution of YTD total sales across different car body styles.
-YTD Total Sales by Color:
+#### 3. YTD Total Sales by Color:
+  - A pie chart highlighting the contribution of various car colors to the YTD total sales.
 
-A pie chart highlighting the contribution of various car colors to the YTD total sales.
-YTD Cars Sold by Dealer Region:
+#### 4. YTD Cars Sold by Dealer Region:
+  - A map chart visualizing the geographical distribution of YTD sales based on dealer regions.
 
-A map chart visualizing the geographical distribution of YTD sales based on dealer regions.
-Company-Wise Sales Trend:
+#### 5. Company-Wise Sales Trend:
+  - A tabular grid displaying the sales trend for each company, including:
+    - Company Name
+    - YTD Sales Figures
+    - Average Price
+    - Number of Cars Sold
+    - Percentage Contribution to Total Sales
 
-A tabular grid displaying the sales trend for each company, including:
-Company Name
-YTD Sales Figures
-Average Price
-Number of Cars Sold
-Percentage Contribution to Total Sales
-Detailed Car Sales Information:
+#### 6. Detailed Car Sales Information:
+  - A detailed grid providing in-depth information for each car sale, including:
+    - Car Model
+    - Body Style
+    - Color
+    - Sales Amount
+    - Dealer Region
+    - Sale Date
+    - Customer Name
+   
+----
 
-A detailed grid providing in-depth information for each car sale, including:
-Car Model
-Body Style
-Color
-Sales Amount
-Dealer Region
-Sale Date
-Customer Name
-Objective
+## Objective
 The primary objective of this project is to design an interactive dashboard that visualizes the critical metrics of our car dealership business. This dashboard is expected to:
+  - Enable real-time monitoring of sales performance.
+  - Identify trends in car sales by analyzing historical data.
+  - Provide actionable insights to improve overall sales strategies.
 
-Enable real-time monitoring of sales performance.
-Identify trends in car sales by analyzing historical data.
-Provide actionable insights to improve overall sales strategies.
-Screenshots
-1. Overview Dashboard
+----
 
-2. Details Dashboard
+## Screenshots
+### 1. Overview Dashboard
 
-Tools Used
-Power BI: For creating dynamic and interactive visualizations.
-Data Source: CSV/Excel files containing car sales data.
-Key Insights from the Dashboard
-Overall Sales Performance:
+### 2. Details Dashboard
+
+----
+
+## Tools Used
+  - Power BI: For creating dynamic and interactive visualizations.
+  - Data Source: CSV/Excel files containing car sales data.
+
+----
+
+##Key Insights from the Dashboard
+  #### 1. Overall Sales Performance:
 
 Total YTD Sales amount to $371.2M, with a YOY growth of 23.59%.
 Month-to-date (MTD) Sales: $54.28M.
