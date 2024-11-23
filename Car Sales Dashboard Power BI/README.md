@@ -73,8 +73,9 @@ The primary objective of this project is to design an interactive dashboard that
 
 ## Screenshots
 ### 1. Overview Dashboard
-
+![overview](https://github.com/MuzafferCemAtes/DataAnalystPortfolio/blob/main/Car%20Sales%20Dashboard%20Power%20BI/overview.png)
 ### 2. Details Dashboard
+![details](https://github.com/MuzafferCemAtes/DataAnalystPortfolio/blob/main/Car%20Sales%20Dashboard%20Power%20BI/details.png)
 
 ----
 
