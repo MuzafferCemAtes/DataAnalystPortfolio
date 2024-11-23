@@ -44,6 +44,8 @@ If you want to check my CV: [Muzaffer Cem Ates](https://github.com/MuzafferCemAt
   + Data Visualization
     + Tableau:
        + [Identifying the most Efficient Striker of 2022-23 season](https://github.com/MuzafferCemAtes/DataAnalystPortfolio/tree/main/Identifying%20the%20most%20Efficient%20Striker%20of%202022-23%20season)
+    + Power BI:
+       + [Car Sales Dashboard](https://github.com/MuzafferCemAtes/DataAnalystPortfolio/tree/main/Car%20Sales%20Dashboard%20Power%20BI)
   + Web Scrapping
      + [Books to Scrape](https://github.com/MuzafferCemAtes/DataAnalystPortfolio/tree/main/Books%20to%20Scrape)
   + Database Design & Structure
