@@ -58,7 +58,7 @@ This study by Muzaffer Cem Ateş, Osman Emre Gümüşoğlu, Aslınur Çolak, and
 
 # [Master's Degree](https://github.com/MuzafferCemAtes/DataAnalystPortfolio/tree/main/Master's%20Degree)
 ## Supply Chain Analysis of Rooftop Solar Panels
-This thesis explores the role of solar energy in addressing global energy needs and environmental challenges. It highlights Turkey’s potential for solar energy, focusing on photovoltaic (PV) systems and their increasing significance worldwide. The study investigates the supply chain of PV panels in Turkey and analyzes the benefits of increasing domestic production. Using the I-JEDI model, the thesis examines economic and employment impacts under different scenarios, emphasizing how localizing production can boost economic growth and job creation. The study also includes a supply chain breakdown and cost analysis for rooftop solar systems, providing a comprehensive look at solar energy’s potential in Turkey
+This thesis explores the role of solar energy in addressing global energy needs and environmental challenges. It highlights Turkey’s potential for solar energy, focusing on photovoltaic (PV) systems and their increasing significance worldwide. The study investigates the supply chain of PV panels in Turkey and analyzes the benefits of increasing domestic production. Using the I-JEDI model, the thesis examines economic and employment impacts under different scenarios, emphasizing how localizing production can boost economic growth and job creation. The study also includes a supply chain breakdown and cost analysis for rooftop solar systems, providing a comprehensive look at solar energy’s potential in Turkey.
 
 # [Certificates](https://github.com/MuzafferCemAtes/DataAnalystPortfolio/tree/main/Certificates)
 Feel free to take a look at the certificates I have by clicking "Certificates"!
@@ -66,6 +66,7 @@ Feel free to take a look at the certificates I have by clicking "Certificates"!
 ----
 
 # Capstone Projects
+
 ## [British Airways Reviews](https://github.com/MuzafferCemAtes/DataAnalystPortfolio/tree/main/British%20Airways%20Review)
 ![dashboard](https://github.com/MuzafferCemAtes/DataAnalystPortfolio/blob/main/British%20Airways%20Review/ss.png)
 [Click to see the dashboard](https://public.tableau.com/app/profile/muzaffer.cem.ates/viz/BritishAirwaysReviewWCleanData/Dashboard1)
