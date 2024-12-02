@@ -9,7 +9,7 @@
     I'm a Data Analyst passionate about coding, data analysis, and creating visual dashboards. <br>
     I'm constantly learning and updating my skills to stay up-to-date with the latest technologies. <br>
     I'm currently seeking new opportunities to apply my knowledge and expertise in the data analysis space. <br>
-    Focusing on upgrading my skills in Excel, Python, SQL, Tableau, and Power BI to enhance my data analysis capabilities.   
+    Focusing on upgrading my skills in Excel, Python, SQL, Tableau, and Power BI to enhance my data analysis capabilities.
   </p>
 </div>
 <br>
