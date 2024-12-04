@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project is part of the **"Microsoft Power BI Data Analyst"** certification course offered by Microsoft. The capstone project revolves around applying advanced Power BI skills to analyze and visualize data for Tailwind Traders, a retail company. The goal is to transform raw data into actionable insights, providing a comprehensive overview of the company's sales and profits. 
+This project is part of the **"Microsoft Power BI Data Analyst"** certification Coursera course offered by Microsoft. The capstone project revolves around applying advanced Power BI skills to analyze and visualize data for Tailwind Traders, a retail company. The goal is to transform raw data into actionable insights, providing a comprehensive overview of the company's sales and profits. 
 
 The project involves creating interactive dashboards that enable informed decision-making through storytelling and insights derived from data analysis. The dashboards are designed to simulate a real-world business scenario, demonstrating expertise in Power BI, data modeling, and DAX expressions.
 
