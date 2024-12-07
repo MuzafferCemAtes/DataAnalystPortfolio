@@ -7,6 +7,7 @@ This project aims to analyze and classify red wine quality using machine learnin
 ### Objective:
 - Predict wine quality based on its physicochemical properties.
 - Explore clustering techniques to group wines with similar characteristics.
+- [Dataset](https://archive.ics.uci.edu/dataset/186/wine+quality)
 
 ### Dataset:
 - The dataset contains 11 features related to wine properties (e.g., alcohol, pH, sulfates) and a quality score (3-8).
