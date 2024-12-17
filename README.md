@@ -49,6 +49,7 @@ If you want to check my CV: [Muzaffer Cem Ates](https://github.com/MuzafferCemAt
        + [Microsoft Power BI Data Analyst on Coursera](https://github.com/MuzafferCemAtes/DataAnalystPortfolio/tree/main/Microsoft%20Power%20BI%20Data%20Analyst%20Capstone%20Project)
   + Machine Learning
     + [Red Wine Quality](https://github.com/MuzafferCemAtes/DataAnalystPortfolio/tree/main/Red%20Wine%20Quality)
+    + [Multiple Linear Regression](https://github.com/MuzafferCemAtes/DataAnalystPortfolio/tree/main/Multiple%20Linear%20Regression)
   + Web Scrapping
      + [Books to Scrape](https://github.com/MuzafferCemAtes/DataAnalystPortfolio/tree/main/Books%20to%20Scrape)
   + Database Design & Structure
