@@ -41,7 +41,3 @@ The project is implemented in Python, and the following libraries are required:
 - `matplotlib`: For data visualization.
 - `scikit-learn`: For implementing the Random Forest Regression model.
 
-## Getting Started
-1. Clone this repository to your local machine:
-   ```bash
-   git clone <repository-url>
